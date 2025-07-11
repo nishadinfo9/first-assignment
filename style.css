@@ -87,7 +87,7 @@ header .hero h2 {
 }
 .productive-user .sub-user {
   width: 80%;
-  background-color: #cccbff;
+  background-color:#bdbbff;
   gap: 30px;
   display: flex;
   flex-direction: column;

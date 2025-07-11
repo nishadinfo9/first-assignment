@@ -165,6 +165,7 @@ header .hero h2 {
   height: 50px;
   width: 50px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 /* ready section */
@@ -190,6 +191,9 @@ header .hero h2 {
 .ready h2 {
   font-size: 45px;
   font-weight: 800;
+}
+.ready p{
+  text-align: center;
 }
 .ready .Ready-image {
   border-radius: 20px;
